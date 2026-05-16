@@ -23,7 +23,7 @@ const CERTS = [
     gradient: 'from-blue-600 to-indigo-500',
     border: 'border-blue-500/30',
     type: 'Professional Cert',
-    link: 'https://coursera.org',
+    link: 'https://drive.google.com/file/d/1DcqfNPJRhSe6c4Zmh5TkF3TZJUc86Owu/view?usp=sharing',
   },
   {
     title: 'Meta Database Structures & Management with MySQL',
@@ -32,7 +32,7 @@ const CERTS = [
     gradient: 'from-blue-400 to-cyan-500',
     border: 'border-cyan-500/30',
     type: 'Database',
-    link: 'https://coursera.org',
+    link: 'https://drive.google.com/file/d/1IekYnz4HFqS-8ODsRu0oq2j4S4j-1GQL/view?usp=sharing',
   },
   {
     title: 'Algorithms of Graph',
@@ -41,7 +41,7 @@ const CERTS = [
     gradient: 'from-purple-500 to-violet-500',
     border: 'border-violet-500/30',
     type: 'CS Fundamentals',
-    link: 'https://coursera.org',
+    link: 'https://drive.google.com/file/d/1bo8HNh3LJSmQIOpvsS4QxzLrIgaF8eK_/view?usp=sharing',
   },
   {
     title: 'Software Design and Architecture',
@@ -50,7 +50,7 @@ const CERTS = [
     gradient: 'from-green-500 to-teal-500',
     border: 'border-teal-500/30',
     type: 'Software Engineering',
-    link: 'https://coursera.org',
+    link: 'https://drive.google.com/file/d/1St8f5EqYqTHb7Et_f60MVDtlygvCcSuc/view?usp=sharing',
   },
   {
     title: 'Tech-Tonic Hackathon 2025',
